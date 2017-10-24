@@ -18,6 +18,5 @@ function largestNumber (a, b) {
   return Math.max(a, b);
 }
 
-
 // Don't remove this line, the tests need it
 module.exports = largestNumber
